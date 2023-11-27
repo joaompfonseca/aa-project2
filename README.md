@@ -12,7 +12,6 @@
 - Run `cd src` in root to enter the folder with the scripts.
 - Run `python3 graph_generator.py` to generate the graphs.
 - Run `python3 benchmark.py` to benchmark the algorithms against the graphs.
-- 
 
 **Course:** Advanced Algorithms (2023/2024).
 
